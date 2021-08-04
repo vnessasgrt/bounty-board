@@ -1,4 +1,4 @@
-# Welcome to IPFS Bounties!
+# Welcome to Storage Provider Bounties!
 
 ## Definition
 Bounties are simply _incentives for closing (fixing) issues_. Issues with bounties attached to them are listed on the [Bounties project board](../../projects/1). When the original issue is closed by a PR, the author of that PR is considered eligible for the bounty. Bounty rewards typically range from **$50** to **$1000**.
